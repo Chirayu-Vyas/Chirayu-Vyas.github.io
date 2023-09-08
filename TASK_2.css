@@ -16,18 +16,19 @@ body{ max-width:100%; overflow-x:hidden; overflow: hidden;}
 }
 
 /* Change the link color on hover */
-#Ver a:hover:not(.om) {
+#Ver a:hover:not(.m) {
     background-color: #FEA500;
   }
   
-#Ver a.om {
+#Ver a.m {
     color: white;
     background-color: #FEA500;
   }
 
 #Horizontal{
     list-style-type: none;
-    position: relative;left:10%;bottom:110%;
+    position: relative;left:10%;bottom:140%;
+    width: 70px;
     margin: 616;
     padding: 0;
     overflow:hidden;
